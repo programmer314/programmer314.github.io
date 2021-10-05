@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/JAMK/stocks-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/JAMK/stocks-app/static/js/main.ab2a7b8a.chunk.js",
-    "main.js.map": "/JAMK/stocks-app/static/js/main.ab2a7b8a.chunk.js.map",
-    "runtime-main.js": "/JAMK/stocks-app/static/js/runtime-main.63919772.js",
-    "runtime-main.js.map": "/JAMK/stocks-app/static/js/runtime-main.63919772.js.map",
+    "main.css": "/JAMK/stocks-app/static/css/main.5739ad41.chunk.css",
+    "main.js": "/JAMK/stocks-app/static/js/main.565ba558.chunk.js",
+    "main.js.map": "/JAMK/stocks-app/static/js/main.565ba558.chunk.js.map",
+    "runtime-main.js": "/JAMK/stocks-app/static/js/runtime-main.f676743f.js",
+    "runtime-main.js.map": "/JAMK/stocks-app/static/js/runtime-main.f676743f.js.map",
     "static/css/2.a95be28f.chunk.css": "/JAMK/stocks-app/static/css/2.a95be28f.chunk.css",
-    "static/js/2.130cad34.chunk.js": "/JAMK/stocks-app/static/js/2.130cad34.chunk.js",
-    "static/js/2.130cad34.chunk.js.map": "/JAMK/stocks-app/static/js/2.130cad34.chunk.js.map",
+    "static/js/2.45f256e5.chunk.js": "/JAMK/stocks-app/static/js/2.45f256e5.chunk.js",
+    "static/js/2.45f256e5.chunk.js.map": "/JAMK/stocks-app/static/js/2.45f256e5.chunk.js.map",
     "static/js/3.343f353a.chunk.js": "/JAMK/stocks-app/static/js/3.343f353a.chunk.js",
     "static/js/3.343f353a.chunk.js.map": "/JAMK/stocks-app/static/js/3.343f353a.chunk.js.map",
     "index.html": "/JAMK/stocks-app/index.html",
     "service-worker.js": "/JAMK/stocks-app/service-worker.js",
     "service-worker.js.map": "/JAMK/stocks-app/service-worker.js.map",
     "static/css/2.a95be28f.chunk.css.map": "/JAMK/stocks-app/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.a617e044.chunk.css.map": "/JAMK/stocks-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.130cad34.chunk.js.LICENSE.txt": "/JAMK/stocks-app/static/js/2.130cad34.chunk.js.LICENSE.txt"
+    "static/css/main.5739ad41.chunk.css.map": "/JAMK/stocks-app/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.45f256e5.chunk.js.LICENSE.txt": "/JAMK/stocks-app/static/js/2.45f256e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.63919772.js",
+    "static/js/runtime-main.f676743f.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.130cad34.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ab2a7b8a.chunk.js"
+    "static/js/2.45f256e5.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.565ba558.chunk.js"
   ]
 }
