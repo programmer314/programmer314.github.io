@@ -21,7 +21,7 @@ function App() {
 	const {Option} = Select;
 	
 	const loadStock = (symbol) => {
-		const URL_PATH = 'https://programmer314.github.io/JAMK/stock-app/stocks/';
+		const URL_PATH = 'https://programmer314.github.io/JAMK/stock-json/';
 		const url = URL_PATH + symbol + '.json';
 		
 		// const API_KEY = 'S59TP1B8C31IJKEA'
